@@ -42,10 +42,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
   <component name="ProjectId" id="1iB6sds21j5K1UfO2Xyi3HKgNvb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,7 +56,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -159,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601371700857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A new Intent to start the InfoActivity class has been added to the onOptionsItemSelected method.">
+      <created>1601372406232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601372406232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,26 +178,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601371184105" />
-    <state x="466" y="7" key="CommitChangelistDialog2" timestamp="1601371697384">
+    <state x="466" y="7" key="CommitChangelistDialog2" timestamp="1601373519571">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="466" y="7" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601371697384" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1601372359287">
+    <state x="466" y="7" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601373519571" />
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1601373241452">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601372359287" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1601372359287">
+    <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1601373241452" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1601373382702">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601372359287" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1601372359287">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601373382702" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1601373382701">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601372359287" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1601372359287">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601373382701" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1601373382701">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601372359287" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601373382701" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1601373382701">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601373382701" />
     <state x="589" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601371473305">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
